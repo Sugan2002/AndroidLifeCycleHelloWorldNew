@@ -89,14 +89,17 @@ android:layout_width="wrap_content" android:layout_height="wrap_content" android
 ```
 
 ## OUTPUT
-![output](./static/img/o1.png)
-![output](./static/img/o2.png)
-![output](./static/img/o3.png)
-![output](./static/img/o4.png)
-![output](./static/img/o5.png)
-![output](./static/img/o6.png)
-![output](./static/img/o7.png)
 
+![o1](https://user-images.githubusercontent.com/77089743/165437932-57d9ff7b-69fa-4d71-86eb-1a33334cc26a.png)
+![o2](https://user-images.githubusercontent.com/77089743/165438083-c11605f7-c756-436b-b9ae-950468eb63f0.png)
+![o3](https://user-images.githubusercontent.com/77089743/165438060-ccd9eed5-504e-4322-8011-e4b9724c4ec8.png)
+![o4](https://user-images.githubusercontent.com/77089743/165438050-baec5c6d-6612-45e9-840c-6764915d2dd5.png)
+![o5](https://user-images.githubusercontent.com/77089743/165438037-9139fa33-6514-4ce1-81a4-4944ebc6d08c.png)
+
+![o6](https://user-images.githubusercontent.com/77089743/165437990-1e2dc91f-11ea-4e07-a68a-a9f2a6262a1b.png)
+
+
+![o7](https://user-images.githubusercontent.com/77089743/165438022-6fd35b81-bf1f-4e96-a3c9-66c8c6a05372.png)
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
