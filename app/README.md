@@ -1,4 +1,5 @@
-# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
+## Date-29/03/2022
+# <p align="center"> Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages</P>
 
 
 ## AIM:
@@ -88,9 +89,24 @@ android:layout_width="wrap_content" android:layout_height="wrap_content" android
 
 ```
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## OUTPUT
 
 ![o1](https://user-images.githubusercontent.com/77089743/165437932-57d9ff7b-69fa-4d71-86eb-1a33334cc26a.png)
+
+</br>
+</br>
+
 ![o2](https://user-images.githubusercontent.com/77089743/165438083-c11605f7-c756-436b-b9ae-950468eb63f0.png)
 ![o3](https://user-images.githubusercontent.com/77089743/165438060-ccd9eed5-504e-4322-8011-e4b9724c4ec8.png)
 ![o4](https://user-images.githubusercontent.com/77089743/165438050-baec5c6d-6612-45e9-840c-6764915d2dd5.png)
